@@ -1,2 +1,2 @@
 # MLDawn-Projects
-This repository contains projects defined in the blog posts by www.mldawn.com
+This repository contains projects defined in the blog posts by www.mldawn.com. The codes are heavily commented so one should not have difficulties understanding them. Below, for every scripts, we will provide an explanation and just so you know, the codes are not modular in any shape or form. In other words, by running a single scripts about, say, Stochastic Gradient Descent (SGD), you will see all the outputs. This is not good coding practice, however, makes understanding and following the steps easier in these certain
